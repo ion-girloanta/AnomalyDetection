@@ -1,0 +1,2050 @@
+17:48:45 read_csv file /DATA/ATM_ECG_803.ts
+17:49:05 read_csv file /DATA/ATM_ECG_803.ts
+17:50:39 read_csv file /DATA/ATM_ECG_803.ts
+17:50:45 define model Series2Graph
+17:50:45 fit the model
+17:51:02 fit the model Graph Statistics:
+17:55:01 read_csv file /DATA/ATM_ECG_803.ts
+17:55:01 define model Series2Graph
+17:55:01 fit the model
+17:55:15 fit the model Graph Statistics:
+17:55:15 plot graph projection A
+17:55:15 Visualization of the graph:
+18:04:55 define model Series2Graph
+18:05:31 define model Series2Graph
+18:05:31 fit the model
+18:05:56 define model Series2Graph
+18:06:10 define model Series2Graph
+18:06:33 define model Series2Graph
+18:06:33 fit the model
+18:07:16 define model Series2Graph
+18:07:16 fit the model
+18:14:14 read_csv file /DATA/ATM_ECG_803.ts
+18:14:15 define model Series2Graph
+18:14:15 fit the model
+18:14:31 fit the model Graph Statistics:
+18:14:31 plot graph projection A
+18:14:31 Visualization of the graph:
+18:17:31 read_csv file /DATA/ATM_ECG_803.ts
+18:17:31 define model Series2Graph
+18:17:31 fit the model
+18:17:45 fit the model Graph Statistics:
+18:17:45 plot graph projection A
+18:17:45 Visualization of the graph:
+18:27:15 read_csv file /DATA/ATM_ECG_803.ts
+18:27:15 define model Series2Graph
+18:27:15 fit the model
+18:27:29 fit the model Graph Statistics:
+18:27:29 plot graph projection A
+18:27:29 Visualization of the graph:
+18:28:37 read_csv file /DATA/ATM_ECG_803.ts
+18:28:37 define model Series2Graph
+18:28:37 fit the model
+18:28:52 fit the model Graph Statistics:
+18:28:52 plot graph projection A
+18:28:52 Visualization of the graph:
+18:28:52 Anomalies detection
+18:28:57 Visualization of the full time series:
+18:28:57 Visualization of a snippet
+18:28:57 Done!
+18:30:02 read_csv file /DATA/ATM_ECG_803.ts
+18:30:37 read_csv file /DATA/ATM_ECG_803.ts
+18:30:50 read_csv file /DATA/ATM_ECG_803.ts
+18:30:56 read_csv file /DATA/ATM_ECG_803.ts
+18:31:39 read_csv file /DATA/ATM_ECG_803.ts
+18:32:04 read_csv file /DATA/ATM_ECG_803.ts
+18:32:21 read_csv file /DATA/ATM_ECG_803.ts
+18:32:51 read_csv file /DATA/ATM_ECG_803.ts
+18:33:04 read_csv file /DATA/ATM_ECG_803.ts
+18:33:24 read_csv file /DATA/ATM_ECG_803.ts
+18:33:37 read_csv file /DATA/ATM_ECG_803.ts
+18:33:45 define model Series2Graph
+18:33:45 fit the model
+18:34:26 read_csv file /DATA/ATM_ECG_803.ts
+18:35:10 read_csv file /DATA/ATM_ECG_803.ts
+18:35:39 define model Series2Graph
+18:35:39 fit the model
+18:36:06 read_csv file /DATA/ATM_ECG_803.ts
+18:39:25 read_csv file /DATA/ATM_ECG_803.ts
+18:45:17 read_csv file /DATA/ATM_ECG_803.ts
+18:45:47 read_csv file /DATA/ATM_ECG_803.ts
+18:46:10 read_csv file /DATA/ATM_ECG_803.ts
+18:46:28 read_csv file /DATA/ATM_ECG_803.ts
+18:46:49 define model Series2Graph
+18:46:49 fit the model
+18:47:51 read_csv file /DATA/ATM_ECG_803.ts
+18:47:51 define model Series2Graph
+18:47:51 fit the model
+18:49:14 read_csv file /DATA/ATM_ECG_803.ts
+18:49:14 define model Series2Graph
+18:49:14 fit the model
+18:50:13 read_csv file /DATA/ATM_ECG_803.ts
+18:50:14 define model Series2Graph
+18:50:14 fit the model
+18:51:11 read_csv file /DATA/ATM_ECG_803.ts
+18:51:12 define model Series2Graph
+18:51:12 fit the model
+18:51:57 read_csv file /DATA/ATM_ECG_803.ts
+18:51:58 define model Series2Graph
+18:51:58 fit the model
+18:53:29 read_csv file /DATA/ATM_ECG_803.ts
+18:53:30 define model Series2Graph
+18:53:30 fit the model
+18:56:14 read_csv file /DATA/ATM_ECG_803.ts
+19:55:20 read_csv file /DATA/ATM_ECG_803.ts
+19:55:29 read_csv file /DATA/ATM_ECG_803.ts
+19:55:52 read_csv file /DATA/ATM_ECG_803.ts
+19:57:46 read_csv file /DATA/ATM_ECG_803.ts
+19:58:46 read_csv file /DATA/ATM_ECG_803.ts
+19:59:21 read_csv file /DATA/ATM_ECG_803.ts
+19:59:29 read_csv file /DATA/ATM_ECG_803.ts
+19:59:42 read_csv file /DATA/ATM_ECG_803.ts
+20:02:28 read_csv file /DATA/ATM_ECG_803.ts
+20:02:45 read_csv file /DATA/ATM_ECG_803.ts
+20:03:18 read_csv file /DATA/ATM_ECG_803.ts
+20:03:37 read_csv file /DATA/ATM_ECG_803.ts
+20:03:38 define model Series2Graph
+20:03:38 fit the model
+20:04:06 read_csv file /DATA/ATM_ECG_803.ts
+20:04:07 define model Series2Graph
+20:04:07 fit the model
+20:06:39 read_csv file /DATA/ATM_ECG_803.ts
+20:06:47 define model Series2Graph
+20:06:47 fit the model
+20:06:57 fit the model Graph Statistics:
+20:06:59 plot graph projection A
+20:07:02 Visualization of the graph:
+20:07:05 Anomalies detection
+20:07:08 Visualization of the full time series:
+20:07:10 Visualization of a snippet
+20:07:13 Done!
+20:08:05 read_csv file /DATA/ATM_ECG_803.ts
+20:08:06 define model Series2Graph
+20:08:06 fit the model
+20:08:06 fit the model Graph Statistics:
+20:08:06 plot graph projection A
+20:08:06 Visualization of the graph:
+20:08:06 Anomalies detection
+20:08:06 Visualization of the full time series:
+20:08:06 Visualization of a snippet
+20:08:06 Done!
+20:08:31 read_csv file /DATA/ATM_ECG_803.ts
+20:08:32 define model Series2Graph
+20:08:32 fit the model
+20:08:32 fit the model Graph Statistics:
+20:08:32 plot graph projection A
+20:08:32 Visualization of the graph:
+20:08:32 Anomalies detection
+20:08:32 Visualization of the full time series:
+20:08:32 Visualization of a snippet
+20:08:32 Done!
+20:09:46 read_csv file /DATA/ATM_ECG_803.ts
+20:09:47 define model Series2Graph
+20:09:47 fit the model
+20:09:48 fit the model Graph Statistics:
+20:09:48 plot graph projection A
+20:09:48 Visualization of the graph:
+20:09:48 Anomalies detection
+20:09:48 Visualization of the full time series:
+20:09:48 Visualization of a snippet
+20:09:48 Done!
+20:10:16 read_csv file /DATA/ATM_ECG_803.ts
+20:10:17 define model Series2Graph
+20:10:17 fit the model
+20:10:17 fit the model Graph Statistics:
+20:10:17 plot graph projection A
+20:10:17 Visualization of the graph:
+20:10:17 Anomalies detection
+20:10:18 Visualization of the full time series:
+20:10:18 Visualization of a snippet
+20:10:18 Done!
+20:11:03 read_csv file /DATA/ATM_ECG_803.ts
+20:11:03 define model Series2Graph
+20:11:03 fit the model
+20:11:04 fit the model Graph Statistics:
+20:11:04 plot graph projection A
+20:11:04 Visualization of the graph:
+20:11:04 Anomalies detection
+20:11:04 Visualization of the full time series:
+20:11:04 Visualization of a snippet
+20:11:04 Done!
+20:11:21 read_csv file /DATA/ATM_ECG_803.ts
+20:11:49 read_csv file /DATA/ATM_ECG_803.ts
+20:12:03 read_csv file /DATA/ATM_ECG_803.ts
+20:12:08 read_csv file /DATA/ATM_ECG_803.ts
+20:12:17 read_csv file /DATA/ATM_ECG_803.ts
+20:12:29 read_csv file /DATA/ATM_ECG_803.ts
+20:13:03 read_csv file /DATA/ATM_ECG_803.ts
+20:18:21 read_csv file /DATA/ATM_ECG_803.ts
+20:18:43 read_csv file /DATA/ATM_ECG_803.ts
+20:19:37 read_csv file /DATA/ATM_ECG_803.ts
+20:20:21 read_csv file /DATA/ATM_ECG_803.ts
+20:21:21 read_csv file /DATA/ATM_ECG_803.ts
+20:21:44 read_csv file /DATA/ATM_ECG_803.ts
+20:22:00 read_csv file /DATA/ATM_ECG_803.ts
+20:22:21 Visualization of a snippet
+20:22:40 read_csv file /DATA/ATM_ECG_803.ts
+20:22:41 define model Series2Graph
+20:22:41 fit the model
+20:22:41 fit the model Graph Statistics:
+20:22:41 plot graph projection A
+20:22:41 Visualization of the graph:
+20:22:41 Anomalies detection
+20:22:41 Visualization of the full time series:
+20:22:41 Visualization of a snippet
+20:22:41 Done!
+20:32:48 read_csv file /DATA/ATM_ECG_803.ts
+20:32:49 define model Series2Graph
+20:32:49 fit the model
+20:32:49 fit the model Graph Statistics:
+20:32:49 plot graph projection A
+20:32:49 Visualization of the graph:
+20:32:49 Anomalies detection
+20:32:50 Visualization of the full time series:
+20:32:50 Visualization of a snippet
+20:32:50 Done!
+20:37:32 read_csv file /DATA/ATM_ECG_803.ts
+20:37:32 define model Series2Graph
+20:37:32 fit the model
+20:37:33 fit the model Graph Statistics:
+20:37:33 plot graph projection A
+20:37:33 Visualization of the graph:
+20:37:33 Anomalies detection
+20:37:33 Visualization of the full time series:
+20:37:33 Visualization of a snippet
+20:37:33 Done!
+20:38:38 Visualization of a snippet
+20:38:55 Visualization of a snippet
+20:39:12 Visualization of a snippet
+20:39:20 Visualization of a snippet
+20:39:23 Visualization of a snippet
+20:39:36 Visualization of a snippet
+20:45:34 read_csv file /DATA/ATM_ECG_803.ts
+20:45:35 define model Series2Graph
+20:45:35 fit the model
+20:52:44 read_csv file /DATA/ATM_ECG_803.ts
+20:52:44 define model Series2Graph
+20:52:44 fit the model
+20:52:59 fit the model Graph Statistics:
+20:52:59 plot graph projection A
+20:52:59 Visualization of the graph:
+20:52:59 Anomalies detection
+20:53:04 Visualization of the full time series:
+20:53:04 Visualization of a snippet
+20:53:04 Done!
+20:53:51 read_csv file /DATA/ATM_ECG_803.ts
+20:53:51 define model Series2Graph
+20:53:51 fit the model
+20:58:36 fit the model Graph Statistics:
+20:58:36 plot graph projection A
+20:58:37 Visualization of the graph:
+20:58:37 Anomalies detection
+20:59:08 Visualization of the full time series:
+20:59:10 Visualization of a snippet
+20:59:10 Done!
+21:02:33 read_csv file /DATA/ATM_ECG_803.ts
+21:02:33 define model Series2Graph
+21:02:33 fit the model
+21:06:40 read_csv file /DATA/ATM_ECG_803.ts
+21:06:40 define model Series2Graph
+21:06:40 fit the model
+21:17:01 read_csv file /DATA/ATM_ECG_803.ts
+21:17:01 define model Series2Graph
+21:17:01 fit the model
+21:19:49 read_csv file /DATA/ATM_ECG_803.ts
+21:19:49 define model Series2Graph
+21:19:49 fit the model
+21:19:51 read_csv file /DATA/ATM_ECG_803.ts
+21:19:51 define model Series2Graph
+21:19:51 fit the model
+21:19:53 read_csv file /DATA/ATM_ECG_803.ts
+21:19:54 define model Series2Graph
+21:19:54 fit the model
+21:20:02 read_csv file /DATA/ATM_ECG_803.ts
+21:20:02 define model Series2Graph
+21:20:02 fit the model
+21:57:35 read_csv file /DATA/ATM_ECG_803.ts
+21:58:08 read_csv file /DATA/ATM_ECG_803.ts
+21:59:47 read_csv file /DATA/ATM_ECG_803.ts
+21:59:56 read_csv file /DATA/ATM_ECG_803.ts
+22:00:11 read_csv file /DATA/ATM_ECG_803.ts
+22:00:12 define model Series2Graph
+22:00:12 fit the model
+22:00:28 read_csv file /DATA/ATM_ECG_803.ts
+22:00:29 define model Series2Graph
+22:00:29 fit the model
+22:02:28 read_csv file /DATA/ATM_ECG_803.ts
+22:02:29 define model Series2Graph
+22:02:29 fit the model
+22:03:36 read_csv file /DATA/ATM_ECG_803.ts
+22:03:36 define model Series2Graph
+22:03:36 fit the model
+22:03:37 fit the model Graph Statistics:
+22:03:37 plot graph projection A
+22:03:37 Visualization of the graph:
+22:03:37 Anomalies detection
+22:03:37 Visualization of the full time series:
+22:03:37 Visualization of a snippet
+22:03:37 define model Series2Graph
+22:03:37 fit the model
+22:03:38 fit the model Graph Statistics:
+22:03:38 plot graph projection A
+22:03:38 Visualization of the graph:
+22:03:38 Anomalies detection
+22:03:38 Visualization of the full time series:
+22:03:38 Visualization of a snippet
+22:03:38 define model Series2Graph
+22:03:38 fit the model
+22:03:39 fit the model Graph Statistics:
+22:03:39 plot graph projection A
+22:03:39 Visualization of the graph:
+22:03:39 Anomalies detection
+22:03:39 Visualization of the full time series:
+22:03:39 Visualization of a snippet
+22:03:39 define model Series2Graph
+22:03:39 fit the model
+22:03:40 fit the model Graph Statistics:
+22:03:40 plot graph projection A
+22:03:40 Visualization of the graph:
+22:03:40 Anomalies detection
+22:03:40 Visualization of the full time series:
+22:03:40 Visualization of a snippet
+22:03:40 define model Series2Graph
+22:03:40 fit the model
+22:03:40 fit the model Graph Statistics:
+22:03:40 plot graph projection A
+22:03:40 Visualization of the graph:
+22:03:40 Anomalies detection
+22:03:40 Visualization of the full time series:
+22:03:41 Visualization of a snippet
+22:03:41 define model Series2Graph
+22:03:41 fit the model
+22:03:41 fit the model Graph Statistics:
+22:03:41 plot graph projection A
+22:03:41 Visualization of the graph:
+22:03:41 Anomalies detection
+22:03:41 Visualization of the full time series:
+22:03:42 Visualization of a snippet
+22:03:42 Done!
+22:04:23 read_csv file /DATA/ATM_ECG_803.ts
+22:04:24 define model Series2Graph
+22:04:24 fit the model
+22:04:25 fit the model Graph Statistics:
+22:04:25 plot graph projection A
+22:04:25 Visualization of the graph:
+22:04:25 Anomalies detection
+22:04:25 Visualization of the full time series:
+22:04:25 Visualization of a snippet
+22:04:25 define model Series2Graph
+22:04:25 fit the model
+22:04:26 fit the model Graph Statistics:
+22:04:26 plot graph projection A
+22:04:26 Visualization of the graph:
+22:04:26 Anomalies detection
+22:04:26 Visualization of the full time series:
+22:04:26 Visualization of a snippet
+22:04:26 define model Series2Graph
+22:04:26 fit the model
+22:04:27 fit the model Graph Statistics:
+22:04:27 plot graph projection A
+22:04:27 Visualization of the graph:
+22:04:27 Anomalies detection
+22:04:27 Visualization of the full time series:
+22:04:27 Visualization of a snippet
+22:04:27 define model Series2Graph
+22:04:27 fit the model
+22:04:28 fit the model Graph Statistics:
+22:04:28 plot graph projection A
+22:04:28 Visualization of the graph:
+22:04:28 Anomalies detection
+22:04:28 Visualization of the full time series:
+22:04:28 Visualization of a snippet
+22:04:29 define model Series2Graph
+22:04:29 fit the model
+22:04:29 fit the model Graph Statistics:
+22:04:29 plot graph projection A
+22:04:29 Visualization of the graph:
+22:04:29 Anomalies detection
+22:04:29 Visualization of the full time series:
+22:04:29 Visualization of a snippet
+22:04:30 define model Series2Graph
+22:04:30 fit the model
+22:04:30 fit the model Graph Statistics:
+22:04:30 plot graph projection A
+22:04:30 Visualization of the graph:
+22:04:30 Anomalies detection
+22:04:31 Visualization of the full time series:
+22:04:31 Visualization of a snippet
+22:04:31 Done!
+22:05:46 read_csv file /DATA/ATM_ECG_803.ts
+22:05:47 define model Series2Graph
+22:05:47 fit the model
+22:05:47 fit the model Graph Statistics:
+22:05:47 Visualization of the graph:
+22:05:47 Anomalies detection
+22:05:47 Visualization of the full time series:
+22:05:48 Visualization of a snippet
+22:05:48 define model Series2Graph
+22:05:48 fit the model
+22:05:48 fit the model Graph Statistics:
+22:05:48 Visualization of the graph:
+22:05:48 Anomalies detection
+22:05:48 Visualization of the full time series:
+22:05:48 Visualization of a snippet
+22:05:48 define model Series2Graph
+22:05:48 fit the model
+22:05:49 fit the model Graph Statistics:
+22:05:49 Visualization of the graph:
+22:05:49 Anomalies detection
+22:05:49 Visualization of the full time series:
+22:05:49 Visualization of a snippet
+22:05:49 define model Series2Graph
+22:05:49 fit the model
+22:05:50 fit the model Graph Statistics:
+22:05:50 Visualization of the graph:
+22:05:50 Anomalies detection
+22:05:50 Visualization of the full time series:
+22:05:50 Visualization of a snippet
+22:05:50 define model Series2Graph
+22:05:50 fit the model
+22:05:51 fit the model Graph Statistics:
+22:05:51 Visualization of the graph:
+22:05:51 Anomalies detection
+22:05:51 Visualization of the full time series:
+22:05:51 Visualization of a snippet
+22:05:51 define model Series2Graph
+22:05:51 fit the model
+22:05:52 fit the model Graph Statistics:
+22:05:52 Visualization of the graph:
+22:05:52 Anomalies detection
+22:05:52 Visualization of the full time series:
+22:05:52 Visualization of a snippet
+22:05:52 Done!
+22:06:47 read_csv file /DATA/ATM_ECG_803.ts
+22:06:47 define model Series2Graph
+22:06:47 fit the model
+22:06:48 fit the model Graph Statistics:
+22:06:48 Visualization of the graph:
+22:06:48 Anomalies detection
+22:06:48 Visualization of a snippet
+22:06:48 define model Series2Graph
+22:06:48 fit the model
+22:06:49 fit the model Graph Statistics:
+22:06:49 Visualization of the graph:
+22:06:49 Anomalies detection
+22:06:49 Visualization of a snippet
+22:06:49 define model Series2Graph
+22:06:49 fit the model
+22:06:50 fit the model Graph Statistics:
+22:06:50 Visualization of the graph:
+22:06:50 Anomalies detection
+22:06:50 Visualization of a snippet
+22:06:50 define model Series2Graph
+22:06:50 fit the model
+22:06:50 fit the model Graph Statistics:
+22:06:50 Visualization of the graph:
+22:06:50 Anomalies detection
+22:06:51 Visualization of a snippet
+22:06:51 define model Series2Graph
+22:06:51 fit the model
+22:06:51 fit the model Graph Statistics:
+22:06:51 Visualization of the graph:
+22:06:51 Anomalies detection
+22:06:51 Visualization of a snippet
+22:06:51 define model Series2Graph
+22:06:51 fit the model
+22:06:52 fit the model Graph Statistics:
+22:06:52 Visualization of the graph:
+22:06:52 Anomalies detection
+22:06:52 Visualization of a snippet
+22:06:52 Done!
+22:09:06 read_csv file /DATA/ATM_ECG_803.ts
+22:09:07 define model Series2Graph
+22:09:07 fit the model
+22:09:07 fit the model Graph Statistics:
+22:09:07 Visualization of the graph:
+22:09:07 Anomalies detection
+22:09:07 Visualization of a snippet
+22:09:08 define model Series2Graph
+22:09:08 fit the model
+22:09:08 fit the model Graph Statistics:
+22:09:08 Visualization of the graph:
+22:09:08 Anomalies detection
+22:09:08 Visualization of a snippet
+22:09:08 define model Series2Graph
+22:09:08 fit the model
+22:09:09 fit the model Graph Statistics:
+22:09:09 Visualization of the graph:
+22:09:09 Anomalies detection
+22:09:09 Visualization of a snippet
+22:09:09 define model Series2Graph
+22:09:09 fit the model
+22:09:10 fit the model Graph Statistics:
+22:09:10 Visualization of the graph:
+22:09:10 Anomalies detection
+22:09:10 Visualization of a snippet
+22:09:10 define model Series2Graph
+22:09:10 fit the model
+22:09:10 fit the model Graph Statistics:
+22:09:10 Visualization of the graph:
+22:09:10 Anomalies detection
+22:09:11 Visualization of a snippet
+22:09:11 define model Series2Graph
+22:09:11 fit the model
+22:09:11 fit the model Graph Statistics:
+22:09:11 Visualization of the graph:
+22:09:11 Anomalies detection
+22:09:11 Visualization of a snippet
+22:09:12 Done!
+22:09:26 read_csv file /DATA/ATM_ECG_803.ts
+22:09:27 define model Series2Graph
+22:09:27 fit the model
+22:09:27 fit the model Graph Statistics:
+22:09:27 Visualization of the graph:
+22:09:27 Anomalies detection
+22:09:27 Visualization of a snippet
+22:09:27 define model Series2Graph
+22:09:27 fit the model
+22:09:28 fit the model Graph Statistics:
+22:09:28 Visualization of the graph:
+22:09:28 Anomalies detection
+22:09:28 Visualization of a snippet
+22:09:28 define model Series2Graph
+22:09:28 fit the model
+22:09:29 fit the model Graph Statistics:
+22:09:29 Visualization of the graph:
+22:09:29 Anomalies detection
+22:09:29 Visualization of a snippet
+22:09:29 define model Series2Graph
+22:09:29 fit the model
+22:09:29 fit the model Graph Statistics:
+22:09:29 Visualization of the graph:
+22:09:29 Anomalies detection
+22:09:30 Visualization of a snippet
+22:09:30 define model Series2Graph
+22:09:30 fit the model
+22:09:30 fit the model Graph Statistics:
+22:09:30 Visualization of the graph:
+22:09:30 Anomalies detection
+22:09:30 Visualization of a snippet
+22:09:30 define model Series2Graph
+22:09:30 fit the model
+22:09:31 fit the model Graph Statistics:
+22:09:31 Visualization of the graph:
+22:09:31 Anomalies detection
+22:09:31 Visualization of a snippet
+22:09:31 Done!
+22:09:58 read_csv file /DATA/ATM_ECG_803.ts
+22:09:59 define model Series2Graph
+22:09:59 fit the model
+22:10:00 fit the model Graph Statistics:
+22:10:00 Visualization of the graph:
+22:10:00 Anomalies detection
+22:12:28 read_csv file /DATA/ATM_ECG_803.ts
+22:12:29 define model Series2Graph
+22:12:29 fit the model
+22:12:30 fit the model Graph Statistics:
+22:12:30 Visualization of the graph:
+22:12:30 Anomalies detection
+22:12:30 Visualization of a snippet
+22:13:41 read_csv file /DATA/ATM_ECG_803.ts
+22:13:42 define model Series2Graph
+22:13:42 fit the model
+22:13:42 fit the model Graph Statistics:
+22:13:42 Visualization of the graph:
+22:13:42 Anomalies detection
+22:13:42 Visualization of a snippet
+22:13:42 define model Series2Graph
+22:13:42 fit the model
+22:13:43 fit the model Graph Statistics:
+22:13:43 Visualization of the graph:
+22:13:43 Anomalies detection
+22:13:43 Visualization of a snippet
+22:13:43 define model Series2Graph
+22:13:43 fit the model
+22:13:44 fit the model Graph Statistics:
+22:13:44 Visualization of the graph:
+22:13:44 Anomalies detection
+22:13:44 Visualization of a snippet
+22:13:44 define model Series2Graph
+22:13:44 fit the model
+22:13:44 fit the model Graph Statistics:
+22:13:44 Visualization of the graph:
+22:13:44 Anomalies detection
+22:13:45 Visualization of a snippet
+22:13:45 define model Series2Graph
+22:13:45 fit the model
+22:13:45 fit the model Graph Statistics:
+22:13:45 Visualization of the graph:
+22:13:45 Anomalies detection
+22:13:45 Visualization of a snippet
+22:13:45 define model Series2Graph
+22:13:45 fit the model
+22:13:46 fit the model Graph Statistics:
+22:13:46 Visualization of the graph:
+22:13:46 Anomalies detection
+22:13:46 Visualization of a snippet
+22:13:46 Done!
+22:15:57 read_csv file /DATA/ATM_ECG_803.ts
+22:15:58 define model Series2Graph
+22:15:58 fit the model
+22:15:59 fit the model Graph Statistics:
+22:15:59 Visualization of the graph:
+22:15:59 Anomalies detection
+22:15:59 Visualization of a snippet
+22:15:59 define model Series2Graph
+22:15:59 fit the model
+22:15:59 fit the model Graph Statistics:
+22:15:59 Visualization of the graph:
+22:15:59 Anomalies detection
+22:16:00 Visualization of a snippet
+22:16:00 define model Series2Graph
+22:16:00 fit the model
+22:16:00 fit the model Graph Statistics:
+22:16:00 Visualization of the graph:
+22:16:00 Anomalies detection
+22:16:00 Visualization of a snippet
+22:16:00 define model Series2Graph
+22:16:00 fit the model
+22:16:01 fit the model Graph Statistics:
+22:16:01 Visualization of the graph:
+22:16:01 Anomalies detection
+22:16:01 Visualization of a snippet
+22:16:01 define model Series2Graph
+22:16:01 fit the model
+22:16:02 fit the model Graph Statistics:
+22:16:02 Visualization of the graph:
+22:16:02 Anomalies detection
+22:16:02 Visualization of a snippet
+22:16:02 define model Series2Graph
+22:16:02 fit the model
+22:16:03 fit the model Graph Statistics:
+22:16:03 Visualization of the graph:
+22:16:03 Anomalies detection
+22:16:03 Visualization of a snippet
+22:16:03 Done!
+22:19:19 read_csv file /DATA/ATM_ECG_803.ts
+22:19:20 define model Series2Graph
+22:19:20 fit the model
+22:19:20 fit the model Graph Statistics:
+22:19:20 Visualization of the graph:
+22:19:20 Anomalies detection
+22:19:21 Visualization of a snippet
+22:19:21 define model Series2Graph
+22:19:21 fit the model
+22:19:21 fit the model Graph Statistics:
+22:19:21 Visualization of the graph:
+22:19:21 Anomalies detection
+22:19:22 Visualization of a snippet
+22:19:22 define model Series2Graph
+22:19:22 fit the model
+22:19:22 fit the model Graph Statistics:
+22:19:22 Visualization of the graph:
+22:19:22 Anomalies detection
+22:19:22 Visualization of a snippet
+22:19:22 define model Series2Graph
+22:19:22 fit the model
+22:19:23 fit the model Graph Statistics:
+22:19:23 Visualization of the graph:
+22:19:23 Anomalies detection
+22:19:23 Visualization of a snippet
+22:19:23 define model Series2Graph
+22:19:23 fit the model
+22:19:24 fit the model Graph Statistics:
+22:19:24 Visualization of the graph:
+22:19:24 Anomalies detection
+22:19:24 Visualization of a snippet
+22:19:24 define model Series2Graph
+22:19:24 fit the model
+22:19:24 fit the model Graph Statistics:
+22:19:24 Visualization of the graph:
+22:19:24 Anomalies detection
+22:19:25 Visualization of a snippet
+22:19:25 Done!
+22:20:28 read_csv file /DATA/ATM_ECG_803.ts
+22:20:29 define model Series2Graph
+22:20:29 fit the model
+22:20:29 fit the model Graph Statistics:
+22:20:29 Visualization of the graph:
+22:20:29 Anomalies detection
+22:20:30 Visualization of a snippet
+22:20:30 define model Series2Graph
+22:20:30 fit the model
+22:20:30 fit the model Graph Statistics:
+22:20:30 Visualization of the graph:
+22:20:30 Anomalies detection
+22:20:30 Visualization of a snippet
+22:20:31 define model Series2Graph
+22:20:31 fit the model
+22:20:31 fit the model Graph Statistics:
+22:20:31 Visualization of the graph:
+22:20:31 Anomalies detection
+22:20:31 Visualization of a snippet
+22:20:31 define model Series2Graph
+22:20:31 fit the model
+22:20:32 fit the model Graph Statistics:
+22:20:32 Visualization of the graph:
+22:20:32 Anomalies detection
+22:20:32 Visualization of a snippet
+22:20:32 define model Series2Graph
+22:20:32 fit the model
+22:20:33 fit the model Graph Statistics:
+22:20:33 Visualization of the graph:
+22:20:33 Anomalies detection
+22:20:33 Visualization of a snippet
+22:20:33 define model Series2Graph
+22:20:33 fit the model
+22:20:34 fit the model Graph Statistics:
+22:20:34 Visualization of the graph:
+22:20:34 Anomalies detection
+22:20:34 Visualization of a snippet
+22:20:34 Done!
+22:21:23 read_csv file /DATA/ATM_ECG_803.ts
+22:21:24 define model Series2Graph
+22:21:24 fit the model
+22:21:24 fit the model Graph Statistics:
+22:21:24 Visualization of the graph:
+22:21:24 Anomalies detection
+22:21:24 Visualization of a snippet
+22:21:24 define model Series2Graph
+22:21:24 fit the model
+22:21:25 fit the model Graph Statistics:
+22:21:25 Visualization of the graph:
+22:21:25 Anomalies detection
+22:21:25 Visualization of a snippet
+22:21:25 define model Series2Graph
+22:21:25 fit the model
+22:21:26 fit the model Graph Statistics:
+22:21:26 Visualization of the graph:
+22:21:26 Anomalies detection
+22:21:26 Visualization of a snippet
+22:21:26 define model Series2Graph
+22:21:26 fit the model
+22:21:27 fit the model Graph Statistics:
+22:21:27 Visualization of the graph:
+22:21:27 Anomalies detection
+22:21:27 Visualization of a snippet
+22:21:27 define model Series2Graph
+22:21:27 fit the model
+22:21:28 fit the model Graph Statistics:
+22:21:28 Visualization of the graph:
+22:21:28 Anomalies detection
+22:21:28 Visualization of a snippet
+22:21:28 define model Series2Graph
+22:21:28 fit the model
+22:21:28 fit the model Graph Statistics:
+22:21:28 Visualization of the graph:
+22:21:28 Anomalies detection
+22:21:29 Visualization of a snippet
+22:21:29 Done!
+22:22:53 read_csv file /DATA/ATM_ECG_803.ts
+22:22:53 define model Series2Graph
+22:22:53 fit the model
+22:22:55 fit the model Graph Statistics:
+22:22:55 Visualization of the graph:
+22:22:55 Anomalies detection
+22:22:55 Visualization of a snippet
+22:23:43 read_csv file /DATA/ATM_ECG_803.ts
+22:23:44 define model Series2Graph
+22:23:44 fit the model
+22:23:44 fit the model Graph Statistics:
+22:23:44 Visualization of the graph:
+22:23:44 Anomalies detection
+22:23:45 Visualization of a snippet
+22:23:45 define model Series2Graph
+22:23:45 fit the model
+22:23:45 fit the model Graph Statistics:
+22:23:45 Visualization of the graph:
+22:23:45 Anomalies detection
+22:23:45 Visualization of a snippet
+22:23:45 define model Series2Graph
+22:23:45 fit the model
+22:23:46 fit the model Graph Statistics:
+22:23:46 Visualization of the graph:
+22:23:46 Anomalies detection
+22:23:46 Visualization of a snippet
+22:23:46 define model Series2Graph
+22:23:46 fit the model
+22:23:47 fit the model Graph Statistics:
+22:23:47 Visualization of the graph:
+22:23:47 Anomalies detection
+22:23:47 Visualization of a snippet
+22:23:47 define model Series2Graph
+22:23:47 fit the model
+22:23:48 fit the model Graph Statistics:
+22:23:48 Visualization of the graph:
+22:23:48 Anomalies detection
+22:23:48 Visualization of a snippet
+22:23:49 define model Series2Graph
+22:23:49 fit the model
+22:23:49 fit the model Graph Statistics:
+22:23:49 Visualization of the graph:
+22:23:49 Anomalies detection
+22:23:49 Visualization of a snippet
+22:23:50 Done!
+22:29:18 Visualization of a snippet
+22:29:39 Visualization of a snippet
+22:30:13 Visualization of a snippet
+22:30:24 define model Series2Graph
+22:30:24 fit the model
+22:30:25 fit the model Graph Statistics:
+22:30:25 Visualization of the graph:
+22:30:25 Anomalies detection
+22:30:25 Visualization of a snippet
+22:30:25 define model Series2Graph
+22:30:25 fit the model
+22:30:25 fit the model Graph Statistics:
+22:30:25 Visualization of the graph:
+22:30:25 Anomalies detection
+22:30:26 Visualization of a snippet
+22:30:26 define model Series2Graph
+22:30:26 fit the model
+22:30:26 fit the model Graph Statistics:
+22:30:26 Visualization of the graph:
+22:30:26 Anomalies detection
+22:30:26 Visualization of a snippet
+22:30:26 define model Series2Graph
+22:30:26 fit the model
+22:30:27 fit the model Graph Statistics:
+22:30:27 Visualization of the graph:
+22:30:27 Anomalies detection
+22:30:27 Visualization of a snippet
+22:30:27 define model Series2Graph
+22:30:27 fit the model
+22:30:28 fit the model Graph Statistics:
+22:30:28 Visualization of the graph:
+22:30:28 Anomalies detection
+22:30:28 Visualization of a snippet
+22:30:28 define model Series2Graph
+22:30:28 fit the model
+22:30:29 fit the model Graph Statistics:
+22:30:29 Visualization of the graph:
+22:30:29 Anomalies detection
+22:30:29 Visualization of a snippet
+22:30:38 read_csv file /DATA/ATM_ECG_803.ts
+22:30:38 define model Series2Graph
+22:30:38 fit the model
+22:30:39 fit the model Graph Statistics:
+22:30:39 Visualization of the graph:
+22:30:39 Anomalies detection
+22:30:39 Visualization of a snippet
+22:30:39 define model Series2Graph
+22:30:39 fit the model
+22:30:40 fit the model Graph Statistics:
+22:30:40 Visualization of the graph:
+22:30:40 Anomalies detection
+22:30:40 Visualization of a snippet
+22:30:40 define model Series2Graph
+22:30:40 fit the model
+22:30:41 fit the model Graph Statistics:
+22:30:41 Visualization of the graph:
+22:30:41 Anomalies detection
+22:30:41 Visualization of a snippet
+22:30:41 define model Series2Graph
+22:30:41 fit the model
+22:30:41 fit the model Graph Statistics:
+22:30:41 Visualization of the graph:
+22:30:41 Anomalies detection
+22:30:42 Visualization of a snippet
+22:30:42 define model Series2Graph
+22:30:42 fit the model
+22:30:42 fit the model Graph Statistics:
+22:30:42 Visualization of the graph:
+22:30:42 Anomalies detection
+22:30:42 Visualization of a snippet
+22:30:42 define model Series2Graph
+22:30:42 fit the model
+22:30:43 fit the model Graph Statistics:
+22:30:43 Visualization of the graph:
+22:30:43 Anomalies detection
+22:30:44 Visualization of a snippet
+22:30:44 Visualization of a snippet
+22:30:44 Done!
+22:32:03 read_csv file /DATA/ATM_ECG_803.ts
+22:32:04 define model Series2Graph
+22:32:04 fit the model
+22:32:05 fit the model Graph Statistics:
+22:32:05 Visualization of the graph:
+22:32:05 Anomalies detection
+22:32:05 Visualization of a snippet
+22:32:05 define model Series2Graph
+22:32:05 fit the model
+22:32:06 fit the model Graph Statistics:
+22:32:06 Visualization of the graph:
+22:32:06 Anomalies detection
+22:32:06 Visualization of a snippet
+22:32:06 define model Series2Graph
+22:32:06 fit the model
+22:32:07 fit the model Graph Statistics:
+22:32:07 Visualization of the graph:
+22:32:07 Anomalies detection
+22:32:07 Visualization of a snippet
+22:32:07 define model Series2Graph
+22:32:07 fit the model
+22:32:07 fit the model Graph Statistics:
+22:32:07 Visualization of the graph:
+22:32:07 Anomalies detection
+22:32:08 Visualization of a snippet
+22:32:08 define model Series2Graph
+22:32:08 fit the model
+22:32:08 fit the model Graph Statistics:
+22:32:08 Visualization of the graph:
+22:32:08 Anomalies detection
+22:32:08 Visualization of a snippet
+22:32:08 define model Series2Graph
+22:32:08 fit the model
+22:32:09 fit the model Graph Statistics:
+22:32:09 Visualization of the graph:
+22:32:09 Anomalies detection
+22:32:09 Visualization of a snippet
+22:32:09 Visualization of a snippet
+22:32:09 Done!
+22:35:43 read_csv file /DATA/ATM_ECG_803.ts
+22:35:44 define model Series2Graph
+22:35:44 fit the model
+22:35:44 fit the model Graph Statistics:
+22:35:44 Visualization of the graph:
+22:35:44 Anomalies detection
+22:35:44 define model Series2Graph
+22:35:44 fit the model
+22:35:45 fit the model Graph Statistics:
+22:35:45 Visualization of the graph:
+22:35:45 Anomalies detection
+22:35:45 define model Series2Graph
+22:35:45 fit the model
+22:35:46 fit the model Graph Statistics:
+22:35:46 Visualization of the graph:
+22:35:46 Anomalies detection
+22:35:46 define model Series2Graph
+22:35:46 fit the model
+22:35:47 fit the model Graph Statistics:
+22:35:47 Visualization of the graph:
+22:35:47 Anomalies detection
+22:35:47 define model Series2Graph
+22:35:47 fit the model
+22:35:48 fit the model Graph Statistics:
+22:35:48 Visualization of the graph:
+22:35:48 Anomalies detection
+22:35:48 define model Series2Graph
+22:35:48 fit the model
+22:35:49 fit the model Graph Statistics:
+22:35:49 Visualization of the graph:
+22:35:49 Anomalies detection
+22:35:49 Visualization of a snippet
+22:35:49 Done!
+22:38:17 Visualization of a snippet
+22:38:29 read_csv file /DATA/ATM_ECG_803.ts
+22:38:29 define model Series2Graph
+22:38:29 fit the model
+22:38:30 fit the model Graph Statistics:
+22:38:30 Visualization of the graph:
+22:38:30 Anomalies detection
+22:38:30 define model Series2Graph
+22:38:30 fit the model
+22:38:31 fit the model Graph Statistics:
+22:38:31 Visualization of the graph:
+22:38:31 Anomalies detection
+22:38:31 define model Series2Graph
+22:38:31 fit the model
+22:38:32 fit the model Graph Statistics:
+22:38:32 Visualization of the graph:
+22:38:32 Anomalies detection
+22:38:32 define model Series2Graph
+22:38:32 fit the model
+22:38:33 fit the model Graph Statistics:
+22:38:33 Visualization of the graph:
+22:38:33 Anomalies detection
+22:38:33 define model Series2Graph
+22:38:33 fit the model
+22:38:33 fit the model Graph Statistics:
+22:38:33 Visualization of the graph:
+22:38:33 Anomalies detection
+22:38:34 define model Series2Graph
+22:38:34 fit the model
+22:38:34 fit the model Graph Statistics:
+22:38:34 Visualization of the graph:
+22:38:34 Anomalies detection
+22:38:34 Visualization of a snippet
+22:38:34 Done!
+22:42:13 read_csv file /DATA/ATM_ECG_803.ts
+22:42:14 define model Series2Graph
+22:42:14 fit the model
+22:42:34 read_csv file /DATA/ATM_ECG_803.ts
+22:42:35 define model Series2Graph
+22:42:35 fit the model
+22:42:41 read_csv file /DATA/ATM_ECG_803.ts
+22:44:56 read_csv file /DATA/ATM_ECG_803.ts
+22:46:19 read_csv file /DATA/ATM_ECG_803.ts
+22:46:32 read_csv file /DATA/ATM_ECG_803.ts
+22:46:32 define model Series2Graph
+22:46:32 fit the model
+22:46:33 fit the model Graph Statistics:
+22:46:33 Visualization of the graph:
+22:46:33 Anomalies detection
+22:46:33 define model Series2Graph
+22:46:33 fit the model
+22:46:33 fit the model Graph Statistics:
+22:46:33 Visualization of the graph:
+22:46:33 Anomalies detection
+22:46:33 define model Series2Graph
+22:46:33 fit the model
+22:46:34 fit the model Graph Statistics:
+22:46:34 Visualization of the graph:
+22:46:34 Anomalies detection
+22:46:34 define model Series2Graph
+22:46:34 fit the model
+22:46:34 fit the model Graph Statistics:
+22:46:34 Visualization of the graph:
+22:46:34 Anomalies detection
+22:46:34 define model Series2Graph
+22:46:34 fit the model
+22:46:34 fit the model Graph Statistics:
+22:46:34 Visualization of the graph:
+22:46:34 Anomalies detection
+22:46:35 define model Series2Graph
+22:46:35 fit the model
+22:46:35 fit the model Graph Statistics:
+22:46:35 Visualization of the graph:
+22:46:35 Anomalies detection
+22:46:35 Visualization of a snippet
+22:46:35 Done!
+22:51:57 Visualization of a snippet
+22:54:21 read_csv file /DATA/ATM_ECG_803.ts
+22:54:21 define model Series2Graph
+22:54:21 fit the model
+22:54:22 fit the model Graph Statistics:
+22:54:22 Visualization of the graph:
+22:54:22 Anomalies detection
+22:54:22 define model Series2Graph
+22:54:22 fit the model
+22:54:22 fit the model Graph Statistics:
+22:54:22 Visualization of the graph:
+22:54:22 Anomalies detection
+22:54:22 define model Series2Graph
+22:54:22 fit the model
+22:54:23 fit the model Graph Statistics:
+22:54:23 Visualization of the graph:
+22:54:23 Anomalies detection
+22:54:23 define model Series2Graph
+22:54:23 fit the model
+22:54:23 fit the model Graph Statistics:
+22:54:23 Visualization of the graph:
+22:54:23 Anomalies detection
+22:54:23 define model Series2Graph
+22:54:23 fit the model
+22:54:24 fit the model Graph Statistics:
+22:54:24 Visualization of the graph:
+22:54:24 Anomalies detection
+22:54:24 define model Series2Graph
+22:54:24 fit the model
+22:54:24 fit the model Graph Statistics:
+22:54:24 Visualization of the graph:
+22:54:24 Anomalies detection
+22:54:25 Visualization of a snippet
+22:54:28 Done!
+22:55:53 Visualization of a snippet
+22:57:01 read_csv file /DATA/ATM_ECG_803.ts
+22:57:02 define model Series2Graph
+22:57:02 fit the model
+22:57:02 fit the model Graph Statistics:
+22:57:02 Visualization of the graph:
+22:57:02 Anomalies detection
+22:57:02 define model Series2Graph
+22:57:02 fit the model
+22:57:03 fit the model Graph Statistics:
+22:57:03 Visualization of the graph:
+22:57:03 Anomalies detection
+22:57:03 define model Series2Graph
+22:57:03 fit the model
+22:57:04 fit the model Graph Statistics:
+22:57:04 Visualization of the graph:
+22:57:04 Anomalies detection
+22:57:04 define model Series2Graph
+22:57:04 fit the model
+22:57:04 fit the model Graph Statistics:
+22:57:04 Visualization of the graph:
+22:57:04 Anomalies detection
+22:57:05 define model Series2Graph
+22:57:05 fit the model
+22:57:05 fit the model Graph Statistics:
+22:57:05 Visualization of the graph:
+22:57:05 Anomalies detection
+22:57:05 define model Series2Graph
+22:57:05 fit the model
+22:57:06 fit the model Graph Statistics:
+22:57:06 Visualization of the graph:
+22:57:06 Anomalies detection
+22:57:06 Visualization of a snippet
+22:57:07 Done!
+22:57:29 read_csv file /DATA/ATM_ECG_803.ts
+22:57:29 define model Series2Graph
+22:57:29 fit the model
+22:57:30 fit the model Graph Statistics:
+22:57:30 Visualization of the graph:
+22:57:30 Anomalies detection
+22:57:30 define model Series2Graph
+22:57:30 fit the model
+22:57:30 fit the model Graph Statistics:
+22:57:30 Visualization of the graph:
+22:57:30 Anomalies detection
+22:57:31 define model Series2Graph
+22:57:31 fit the model
+22:57:31 fit the model Graph Statistics:
+22:57:31 Visualization of the graph:
+22:57:31 Anomalies detection
+22:57:31 define model Series2Graph
+22:57:31 fit the model
+22:57:32 fit the model Graph Statistics:
+22:57:32 Visualization of the graph:
+22:57:32 Anomalies detection
+22:57:32 define model Series2Graph
+22:57:32 fit the model
+22:57:32 fit the model Graph Statistics:
+22:57:32 Visualization of the graph:
+22:57:32 Anomalies detection
+22:57:33 define model Series2Graph
+22:57:33 fit the model
+22:57:33 fit the model Graph Statistics:
+22:57:33 Visualization of the graph:
+22:57:33 Anomalies detection
+22:57:33 Visualization of a snippet
+22:57:34 Done!
+23:01:32 read_csv file /DATA/ATM_ECG_803.ts
+23:01:33 define model Series2Graph
+23:01:33 fit the model
+23:01:34 fit the model Graph Statistics:
+23:01:34 Visualization of the graph:
+23:01:34 Anomalies detection
+23:01:34 define model Series2Graph
+23:01:34 fit the model
+23:01:34 fit the model Graph Statistics:
+23:01:34 Visualization of the graph:
+23:01:34 Anomalies detection
+23:01:35 define model Series2Graph
+23:01:35 fit the model
+23:01:35 fit the model Graph Statistics:
+23:01:35 Visualization of the graph:
+23:01:35 Anomalies detection
+23:01:35 define model Series2Graph
+23:01:35 fit the model
+23:01:36 fit the model Graph Statistics:
+23:01:36 Visualization of the graph:
+23:01:36 Anomalies detection
+23:01:36 define model Series2Graph
+23:01:36 fit the model
+23:01:37 fit the model Graph Statistics:
+23:01:37 Visualization of the graph:
+23:01:37 Anomalies detection
+23:01:37 define model Series2Graph
+23:01:37 fit the model
+23:01:37 fit the model Graph Statistics:
+23:01:37 Visualization of the graph:
+23:01:37 Anomalies detection
+23:01:38 Visualization of a snippet
+23:01:38 Done!
+18:34:56 read_csv file /DATA/ATM_ECG_803.ts
+18:35:32 read_csv file /DATA/ATM_ECG_803.ts
+18:35:51 read_csv file /DATA/ATM_ECG_803.ts
+18:37:43 read_csv file /DATA/ATM_ECG_803.ts
+18:38:53 read_csv file /DATA/ATM_ECG_803.ts
+19:23:37 read_csv file /DATA/ATM_ECG_803.ts
+19:25:39 read_csv file /DATA/ATM_ECG_803.ts
+19:25:40 define model Series2Graph
+19:25:40 fit the model
+19:25:41 fit the model Graph Statistics:
+19:25:41 Visualization of the graph:
+19:25:41 Anomalies detection
+19:25:41 define model Series2Graph
+19:25:41 fit the model
+19:25:42 fit the model Graph Statistics:
+19:25:42 Visualization of the graph:
+19:25:42 Anomalies detection
+19:25:42 define model Series2Graph
+19:25:42 fit the model
+19:25:43 fit the model Graph Statistics:
+19:25:43 Visualization of the graph:
+19:25:43 Anomalies detection
+19:25:43 define model Series2Graph
+19:25:43 fit the model
+19:25:44 fit the model Graph Statistics:
+19:25:44 Visualization of the graph:
+19:25:44 Anomalies detection
+19:25:44 define model Series2Graph
+19:25:44 fit the model
+19:25:45 fit the model Graph Statistics:
+19:25:45 Visualization of the graph:
+19:25:45 Anomalies detection
+19:25:45 define model Series2Graph
+19:25:45 fit the model
+19:25:45 fit the model Graph Statistics:
+19:25:45 Visualization of the graph:
+19:25:45 Anomalies detection
+19:25:46 Visualization of a snippet
+19:25:47 Done!
+19:29:45 read_csv file /DATA/ATM_ECG_803.ts
+19:31:41 read_csv file /DATA/ATM_ECG_803.ts
+19:31:42 define model Series2Graph
+19:31:42 fit the model
+19:31:43 fit the model Graph Statistics:
+19:31:43 Visualization of the graph:
+19:31:43 Anomalies detection
+19:31:43 define model Series2Graph
+19:31:43 fit the model
+19:31:43 fit the model Graph Statistics:
+19:31:43 Visualization of the graph:
+19:31:43 Anomalies detection
+19:31:44 define model Series2Graph
+19:31:44 fit the model
+19:31:44 fit the model Graph Statistics:
+19:31:44 Visualization of the graph:
+19:31:44 Anomalies detection
+19:31:44 define model Series2Graph
+19:31:44 fit the model
+19:31:45 fit the model Graph Statistics:
+19:31:45 Visualization of the graph:
+19:31:45 Anomalies detection
+19:31:45 define model Series2Graph
+19:31:45 fit the model
+19:31:45 fit the model Graph Statistics:
+19:31:46 Visualization of the graph:
+19:31:46 Anomalies detection
+19:31:46 define model Series2Graph
+19:31:46 fit the model
+19:31:46 fit the model Graph Statistics:
+19:31:46 Visualization of the graph:
+19:31:46 Anomalies detection
+19:31:46 Visualization of a snippet
+19:31:47 Done!
+19:32:01 read_csv file /DATA/ATM_ECG_803.ts
+19:32:01 define model Series2Graph
+19:32:01 fit the model
+19:32:02 fit the model Graph Statistics:
+19:32:02 Visualization of the graph:
+19:32:02 Anomalies detection
+19:32:02 define model Series2Graph
+19:32:02 fit the model
+19:32:02 fit the model Graph Statistics:
+19:32:02 Visualization of the graph:
+19:32:02 Anomalies detection
+19:32:03 define model Series2Graph
+19:32:03 fit the model
+19:32:03 fit the model Graph Statistics:
+19:32:03 Visualization of the graph:
+19:32:03 Anomalies detection
+19:32:03 define model Series2Graph
+19:32:03 fit the model
+19:32:04 fit the model Graph Statistics:
+19:32:04 Visualization of the graph:
+19:32:04 Anomalies detection
+19:32:04 define model Series2Graph
+19:32:04 fit the model
+19:32:05 fit the model Graph Statistics:
+19:32:05 Visualization of the graph:
+19:32:05 Anomalies detection
+19:32:05 define model Series2Graph
+19:32:05 fit the model
+19:32:05 fit the model Graph Statistics:
+19:32:05 Visualization of the graph:
+19:32:05 Anomalies detection
+19:32:06 Visualization of a snippet
+19:32:06 Done!
+17:26:13 read_csv file /DATA/ATM_ECG_803.ts
+17:27:54 define model Series2Graph
+17:36:41 fit the model
+14:14:17 read_csv file /DATA/ATM_ECG_803.ts
+14:16:24 define model Series2Graph
+14:17:02 fit the model
+13:31:06 read_csv file /DATA/ATM_ECG_803.ts
+13:31:14 define model Series2Graph
+13:31:17 fit the model
+13:51:40 read_csv file /DATA/ATM_ECG_803.ts
+13:51:40 define model Series2Graph
+13:51:40 fit the model
+13:51:40 fit the model Graph Statistics:
+13:51:40 Visualization of the graph:
+13:51:40 Anomalies detection
+13:51:41 Visualization of the full time series:
+13:51:41 define model Series2Graph
+13:51:41 fit the model
+13:51:41 fit the model Graph Statistics:
+13:51:41 Visualization of the graph:
+13:51:41 Anomalies detection
+13:51:41 Visualization of the full time series:
+13:51:41 define model Series2Graph
+13:51:41 fit the model
+13:51:42 fit the model Graph Statistics:
+13:51:42 Visualization of the graph:
+13:51:42 Anomalies detection
+13:51:42 Visualization of the full time series:
+13:51:42 define model Series2Graph
+13:51:42 fit the model
+13:51:42 fit the model Graph Statistics:
+13:51:42 Visualization of the graph:
+13:51:42 Anomalies detection
+13:51:42 Visualization of the full time series:
+13:51:42 define model Series2Graph
+13:51:42 fit the model
+13:51:43 fit the model Graph Statistics:
+13:51:43 Visualization of the graph:
+13:51:43 Anomalies detection
+13:51:43 Visualization of the full time series:
+13:51:43 define model Series2Graph
+13:51:43 fit the model
+13:51:44 fit the model Graph Statistics:
+13:51:44 Visualization of the graph:
+13:51:44 Anomalies detection
+13:51:44 Visualization of the full time series:
+13:51:44 Visualization of a snippet
+13:51:46 Done!
+15:38:13 read_csv file /DATA/ATM_ECG_803.ts
+15:39:38 read_csv file /DATA/ATM_ECG_803.ts
+15:43:32 read_csv file /DATA/ATM_ECG_803.ts
+15:44:08 read_csv file /DATA/ATM_ECG_803.ts
+15:50:06 read_csv file /DATA/ATM_ECG_803.ts
+15:53:02 read_csv file /DATA/ATM_ECG_803.ts
+15:54:34 read_csv file /DATA/ATM_ECG_803.ts
+15:56:44 read_csv file /DATA/ATM_ECG_803.ts
+15:57:48 read_csv file /DATA/ATM_ECG_803.ts
+16:23:50 read_csv file /DATA/ATM_ECG_803.ts
+16:24:21 read_csv file /DATA/ATM_ECG_803.ts
+16:25:47 read_csv file /DATA/ATM_ECG_803.ts
+16:26:50 read_csv file /DATA/ATM_ECG_803.ts
+16:28:53 read_csv file /DATA/ATM_ECG_803.ts
+16:29:58 read_csv file /DATA/ATM_ECG_803.ts
+16:30:47 read_csv file /DATA/ATM_ECG_803.ts
+16:36:29 read_csv file /DATA/ATM_ECG_803.ts
+16:38:46 read_csv file /DATA/ATM_ECG_803.ts
+16:43:04 read_csv file /DATA/ATM_ECG_803.ts
+16:43:36 read_csv file /DATA/ATM_ECG_803.ts
+16:43:57 read_csv file /DATA/ATM_ECG_803.ts
+16:44:29 read_csv file /DATA/ATM_ECG_803.ts
+16:45:45 read_csv file /DATA/ATM_ECG_803.ts
+16:46:34 read_csv file /DATA/ATM_ECG_803.ts
+17:01:54 read_csv file /DATA/ATM_ECG_803.ts
+17:02:53 read_csv file /DATA/ATM_ECG_803.ts
+17:03:44 read_csv file /DATA/ATM_ECG_803.ts
+17:06:25 read_csv file /DATA/ATM_ECG_803.ts
+17:06:26 define model Series2Graph
+17:06:26 fit the model
+17:06:48 read_csv file /DATA/ATM_ECG_803.ts
+17:09:01 read_csv file /DATA/ATM_ECG_803.ts
+17:09:03 Visualization of dataset
+17:09:46 read_csv file /DATA/ATM_ECG_803.ts
+17:09:51 Visualization of dataset
+17:12:11 read_csv file /DATA/ATM_ECG_803.ts
+17:12:17 Visualization of dataset
+17:13:28 read_csv file /DATA/ATM_ECG_803.ts
+17:13:30 Visualization of dataset
+17:14:20 define model Series2Graph
+17:14:20 fit the model
+17:14:28 read_csv file /DATA/ATM_ECG_803.ts
+17:14:33 Visualization of dataset
+17:14:43 define model Series2Graph
+17:14:43 fit the model
+17:14:51 read_csv file /DATA/ATM_ECG_803.ts
+17:15:03 read_csv file /DATA/ATM_ECG_803.ts
+17:15:14 Visualization of dataset
+17:15:24 define model Series2Graph
+17:15:32 fit the model
+17:18:38 read_csv file /DATA/ATM_ECG_803.ts
+17:18:39 Visualization of dataset
+17:18:39 define model Series2Graph
+17:18:39 fit the model
+17:18:40 fit the model Graph Statistics:
+17:18:40 Visualization of the graph:
+17:18:40 Anomalies detection
+17:18:40 Visualization of the full time series:
+17:18:40 Visualization of a snippet
+17:19:31 read_csv file /DATA/ATM_ECG_803.ts
+17:19:32 Visualization of dataset
+17:19:33 define model Series2Graph
+17:19:33 fit the model
+17:19:33 fit the model Graph Statistics:
+17:19:33 Visualization of the graph:
+17:19:33 Anomalies detection
+17:19:33 Visualization of the full time series:
+17:19:33 Visualization of a snippet
+17:19:34 Done!
+17:20:19 read_csv file /DATA/ATM_ECG_803.ts
+17:20:24 Visualization of dataset
+17:20:33 define model Series2Graph
+17:20:33 fit the model
+17:20:50 fit the model Graph Statistics:
+17:20:50 Visualization of the graph:
+17:20:50 Anomalies detection
+17:20:52 Visualization of the full time series:
+17:20:54 Visualization of a snippet
+17:20:56 Done!
+17:23:16 read_csv file /DATA/ATM_ECG_803.ts
+17:23:17 Visualization of dataset
+17:23:17 define model Series2Graph
+17:23:17 fit the model
+17:23:17 fit the model Graph Statistics:
+17:23:17 Visualization of the graph:
+17:23:17 Anomalies detection
+17:23:17 Visualization of the full time series:
+17:23:17 Visualization of the full time series:
+17:23:17 Visualization of a snippet
+17:23:18 Done!
+17:25:39 read_csv file /DATA/ATM_ECG_803.ts
+17:25:40 Visualization of dataset
+17:25:41 define model Series2Graph
+17:25:41 fit the model
+17:25:41 fit the model Graph Statistics:
+17:25:41 Visualization of the graph:
+17:25:41 Anomalies detection
+17:25:41 Visualization of the full time series:
+17:25:41 Visualization of a snippet
+17:25:42 Done!
+17:26:07 read_csv file /DATA/ATM_ECG_803.ts
+17:26:07 Visualization of dataset
+17:26:08 define model Series2Graph
+17:26:08 fit the model
+17:26:08 fit the model Graph Statistics:
+17:26:08 Visualization of the graph:
+17:26:08 Anomalies detection
+17:26:08 Visualization of the full time series:
+17:26:27 read_csv file /DATA/ATM_ECG_803.ts
+17:26:28 Visualization of dataset
+17:26:28 define model Series2Graph
+17:26:28 fit the model
+17:26:29 fit the model Graph Statistics:
+17:26:29 Visualization of the graph:
+17:26:29 Anomalies detection
+17:26:29 Visualization of the full time series:
+17:26:29 Visualization of a snippet
+17:26:31 Done!
+17:27:06 read_csv file /DATA/ATM_ECG_803.ts
+17:27:16 read_csv file /DATA/ATM_ECG_803.ts
+17:27:17 Visualization of dataset
+17:27:18 define model Series2Graph
+17:27:18 fit the model
+17:27:18 fit the model Graph Statistics:
+17:27:18 Visualization of the graph:
+17:27:18 Anomalies detection
+17:27:18 Visualization of the full time series:
+17:27:18 Visualization of a snippet
+17:27:19 Done!
+17:28:26 read_csv file /DATA/ATM_ECG_803.ts
+17:28:26 Visualization of dataset
+17:28:27 define model Series2Graph
+17:28:27 fit the model
+17:28:27 fit the model Graph Statistics:
+17:28:27 Visualization of the graph:
+17:28:27 Anomalies detection
+17:28:27 Visualization of the full time series:
+17:28:27 Visualization of a snippet
+17:28:28 Done!
+17:30:57 read_csv file /DATA/ATM_ECG_803.ts
+17:30:58 Visualization of dataset
+17:30:58 define model Series2Graph
+17:30:58 fit the model
+17:30:58 fit the model Graph Statistics:
+17:30:58 Visualization of the graph:
+17:30:58 Anomalies detection
+17:30:58 Visualization of the full time series:
+17:30:59 Visualization of a snippet
+17:31:19 read_csv file /DATA/ATM_ECG_803.ts
+17:31:20 Visualization of dataset
+17:31:20 define model Series2Graph
+17:31:20 fit the model
+17:31:21 fit the model Graph Statistics:
+17:31:21 Visualization of the graph:
+17:31:21 Anomalies detection
+17:31:21 Visualization of the full time series:
+17:31:21 Visualization of a snippet
+17:31:22 Done!
+17:35:01 read_csv file /DATA/ATM_ECG_803.ts
+17:35:02 Visualization of dataset
+17:35:02 define model Series2Graph
+17:35:02 fit the model
+17:35:03 fit the model Graph Statistics:
+17:35:03 Visualization of the graph:
+17:35:03 Anomalies detection
+17:35:03 Visualization of the full time series:
+17:35:03 Visualization of a snippet
+17:35:04 Visualization of a snippet
+17:38:20 read_csv file /DATA/ATM_ECG_803.ts
+17:38:21 Visualization of dataset
+17:38:21 define model Series2Graph
+17:38:21 fit the model
+17:38:22 fit the model Graph Statistics:
+17:38:22 Visualization of the graph:
+17:38:22 Anomalies detection
+17:38:22 Visualization of the full time series:
+17:38:22 Visualization of a snippet
+17:38:23 Visualization of a snippet
+17:39:14 read_csv file /DATA/ATM_ECG_803.ts
+17:39:15 Visualization of dataset
+17:39:16 define model Series2Graph
+17:39:16 fit the model
+17:39:16 fit the model Graph Statistics:
+17:39:16 Visualization of the graph:
+17:39:16 Anomalies detection
+17:39:16 Visualization of the full time series:
+17:39:17 Visualization of a snippet
+17:39:18 Visualization of a snippet
+17:41:01 read_csv file /DATA/ATM_ECG_803.ts
+17:41:01 Visualization of dataset
+17:41:02 define model Series2Graph
+17:41:02 fit the model
+17:41:02 fit the model Graph Statistics:
+17:41:02 Visualization of the graph:
+17:41:02 Anomalies detection
+17:41:02 Visualization of the full time series:
+17:41:03 Visualization of a snippet
+17:42:41 read_csv file /DATA/ATM_ECG_803.ts
+17:42:42 Visualization of dataset
+17:42:42 define model Series2Graph
+17:42:42 fit the model
+17:42:42 fit the model Graph Statistics:
+17:42:42 Visualization of the graph:
+17:42:42 Anomalies detection
+17:42:42 Visualization of the full time series:
+17:42:42 Visualization of a snippet
+17:43:25 read_csv file /DATA/ATM_ECG_803.ts
+17:43:26 Visualization of dataset
+17:43:26 define model Series2Graph
+17:43:26 fit the model
+17:43:26 fit the model Graph Statistics:
+17:43:26 Visualization of the graph:
+17:43:26 Anomalies detection
+17:43:27 Visualization of the full time series:
+17:43:27 Visualization of a snippet
+17:43:47 read_csv file /DATA/ATM_ECG_803.ts
+17:43:47 Visualization of dataset
+17:43:48 define model Series2Graph
+17:43:48 fit the model
+17:43:49 fit the model Graph Statistics:
+17:43:49 Visualization of the graph:
+17:43:49 Anomalies detection
+17:43:49 Visualization of the full time series:
+17:43:49 Visualization of a snippet
+17:44:04 Visualization of a snippet
+17:44:11 Visualization of a snippet
+17:45:54 read_csv file /DATA/ATM_ECG_803.ts
+17:45:55 Visualization of dataset
+17:45:55 define model Series2Graph
+17:45:55 fit the model
+17:45:56 fit the model Graph Statistics:
+17:45:56 Visualization of the graph:
+17:45:56 Anomalies detection
+17:45:56 Visualization of the full time series:
+17:45:56 Visualization of a snippet
+17:48:09 read_csv file /DATA/ATM_ECG_803.ts
+17:48:09 Visualization of dataset
+17:48:10 define model Series2Graph
+17:48:10 fit the model
+17:48:10 fit the model Graph Statistics:
+17:48:10 Visualization of the graph:
+17:48:10 Anomalies detection
+17:48:10 Visualization of the full time series:
+17:48:10 Visualization of a snippet
+17:48:50 read_csv file /DATA/ATM_ECG_803.ts
+17:48:50 Visualization of dataset
+17:48:51 define model Series2Graph
+17:48:51 fit the model
+17:48:51 fit the model Graph Statistics:
+17:48:51 Visualization of the graph:
+17:48:51 Anomalies detection
+17:48:51 Visualization of the full time series:
+17:48:52 Visualization of a snippet
+17:49:34 read_csv file /DATA/ATM_ECG_803.ts
+17:49:35 Visualization of dataset
+17:49:36 define model Series2Graph
+17:49:36 fit the model
+17:49:37 fit the model Graph Statistics:
+17:49:37 Visualization of the graph:
+17:49:37 Anomalies detection
+17:49:37 Visualization of the full time series:
+17:49:37 Visualization of a snippet
+19:13:10 read_csv file /DATA/ATM_ECG_803.ts
+19:13:10 Visualization of dataset
+19:13:11 define model Series2Graph
+19:13:11 fit the model
+19:13:11 fit the model Graph Statistics:
+19:13:11 Visualization of the graph:
+19:13:11 Anomalies detection
+19:13:12 Visualization of the full time series:
+19:13:12 Visualization of a snippet
+19:13:51 read_csv file /DATA/ATM_ECG_803.ts
+19:13:52 Visualization of dataset
+19:13:52 define model Series2Graph
+19:13:52 fit the model
+19:13:53 fit the model Graph Statistics:
+19:13:53 Visualization of the graph:
+19:13:53 Anomalies detection
+19:13:53 Visualization of the full time series:
+19:13:53 Visualization of a snippet
+19:14:27 read_csv file /DATA/ATM_ECG_803.ts
+19:14:27 Visualization of dataset
+19:14:27 define model Series2Graph
+19:14:27 fit the model
+19:14:28 fit the model Graph Statistics:
+19:14:28 Visualization of the graph:
+19:14:28 Anomalies detection
+19:14:28 Visualization of the full time series:
+19:14:28 Visualization of a snippet
+19:14:53 read_csv file /DATA/ATM_ECG_803.ts
+19:14:54 Visualization of dataset
+19:14:54 define model Series2Graph
+19:14:54 fit the model
+19:14:54 fit the model Graph Statistics:
+19:14:54 Visualization of the graph:
+19:14:54 Anomalies detection
+19:14:54 Visualization of the full time series:
+19:14:55 Visualization of a snippet
+19:18:13 read_csv file /DATA/ATM_ECG_803.ts
+19:18:13 Visualization of dataset
+19:18:14 define model Series2Graph
+19:18:14 fit the model
+19:18:14 fit the model Graph Statistics:
+19:18:14 Visualization of the graph:
+19:18:14 Anomalies detection
+19:18:14 Visualization of the full time series:
+19:18:15 Visualization of a snippet
+19:18:43 read_csv file /DATA/ATM_ECG_803.ts
+19:18:44 Visualization of dataset
+19:18:44 define model Series2Graph
+19:18:44 fit the model
+19:18:44 fit the model Graph Statistics:
+19:18:44 Visualization of the graph:
+19:18:44 Anomalies detection
+19:18:44 Visualization of the full time series:
+19:18:45 Visualization of a snippet
+19:18:57 read_csv file /DATA/ATM_ECG_803.ts
+19:18:57 Visualization of dataset
+19:18:57 define model Series2Graph
+19:18:57 fit the model
+19:18:58 fit the model Graph Statistics:
+19:18:58 Visualization of the graph:
+19:18:58 Anomalies detection
+19:18:58 Visualization of the full time series:
+19:18:58 Visualization of a snippet
+19:19:48 read_csv file /DATA/ATM_ECG_803.ts
+19:19:48 Visualization of dataset
+19:19:49 define model Series2Graph
+19:19:49 fit the model
+19:19:50 fit the model Graph Statistics:
+19:19:50 Visualization of the graph:
+19:19:50 Anomalies detection
+19:19:50 Visualization of the full time series:
+19:19:52 Visualization of a snippet
+19:20:30 read_csv file /DATA/ATM_ECG_803.ts
+19:20:38 Visualization of dataset
+19:20:39 define model Series2Graph
+19:20:39 fit the model
+19:21:09 fit the model Graph Statistics:
+19:21:09 Visualization of the graph:
+19:21:09 Anomalies detection
+19:21:44 Visualization of the full time series:
+19:22:39 Visualization of a snippet
+19:23:54 read_csv file /DATA/ATM_ECG_803.ts
+19:23:54 Visualization of dataset
+19:23:55 define model Series2Graph
+19:23:55 fit the model
+19:23:55 fit the model Graph Statistics:
+19:23:55 Visualization of the graph:
+19:23:55 Anomalies detection
+19:23:55 Visualization of the full time series:
+19:23:56 Visualization of a snippet
+19:23:56 Visualization of a snippet
+19:24:25 read_csv file /DATA/ATM_ECG_803.ts
+19:24:28 Visualization of dataset
+19:24:31 define model Series2Graph
+19:24:31 fit the model
+19:24:37 fit the model Graph Statistics:
+19:24:37 Visualization of the graph:
+19:24:37 Anomalies detection
+19:24:44 Visualization of the full time series:
+19:24:47 Visualization of a snippet
+19:29:38 read_csv file /DATA/ATM_ECG_803.ts
+19:29:38 Visualization of dataset
+19:29:39 define model Series2Graph
+19:29:39 fit the model
+19:29:39 fit the model Graph Statistics:
+19:29:39 Visualization of the graph:
+19:29:39 Anomalies detection
+19:29:39 Visualization of the full time series:
+19:29:40 Visualization of a snippet
+19:29:41 Visualization of a snippet
+19:31:56 read_csv file /DATA/ATM_ECG_803.ts
+19:31:57 Visualization of dataset
+19:31:57 define model Series2Graph
+19:31:57 fit the model
+19:31:58 fit the model Graph Statistics:
+19:31:58 Visualization of the graph:
+19:31:58 Anomalies detection
+19:31:58 Visualization of the full time series:
+19:31:59 Visualization of a snippet
+19:32:00 Visualization of a snippet
+19:32:50 read_csv file /DATA/ATM_ECG_803.ts
+19:32:50 Visualization of dataset
+19:32:51 define model Series2Graph
+19:32:51 fit the model
+19:32:51 fit the model Graph Statistics:
+19:32:51 Visualization of the graph:
+19:32:51 Anomalies detection
+19:32:51 Visualization of the full time series:
+19:32:52 Visualization of a snippet
+19:32:52 Visualization of a snippet
+19:33:09 read_csv file /DATA/ATM_ECG_803.ts
+19:33:10 Visualization of dataset
+19:33:10 define model Series2Graph
+19:33:10 fit the model
+19:33:10 fit the model Graph Statistics:
+19:33:10 Visualization of the graph:
+19:33:10 Anomalies detection
+19:33:10 Visualization of the full time series:
+19:33:11 Visualization of a snippet
+19:33:11 Visualization of a snippet
+19:33:25 read_csv file /DATA/ATM_ECG_803.ts
+19:33:25 Visualization of dataset
+19:33:26 define model Series2Graph
+19:33:26 fit the model
+19:33:26 fit the model Graph Statistics:
+19:33:26 Visualization of the graph:
+19:33:26 Anomalies detection
+19:33:26 Visualization of the full time series:
+19:33:27 Visualization of a snippet
+19:33:28 Visualization of a snippet
+19:34:16 read_csv file /DATA/ATM_ECG_803.ts
+19:34:16 Visualization of dataset
+19:34:17 define model Series2Graph
+19:34:17 fit the model
+19:34:17 fit the model Graph Statistics:
+19:34:17 Visualization of the graph:
+19:34:17 Anomalies detection
+19:34:17 Visualization of the full time series:
+19:34:18 Visualization of a snippet
+19:34:18 Visualization of a snippet
+19:35:30 read_csv file /DATA/ATM_ECG_803.ts
+19:35:31 Visualization of dataset
+19:35:31 define model Series2Graph
+19:35:31 fit the model
+19:35:31 fit the model Graph Statistics:
+19:35:31 Visualization of the graph:
+19:35:31 Anomalies detection
+19:35:31 Visualization of the full time series:
+19:35:32 Visualization of a snippet
+19:35:32 Visualization of a snippet
+19:35:46 read_csv file /DATA/ATM_ECG_803.ts
+19:35:46 Visualization of dataset
+19:35:46 define model Series2Graph
+19:35:46 fit the model
+19:35:47 fit the model Graph Statistics:
+19:35:47 Visualization of the graph:
+19:35:47 Anomalies detection
+19:35:47 Visualization of the full time series:
+19:35:47 Visualization of a snippet
+19:35:48 Visualization of a snippet
+19:35:59 read_csv file /DATA/ATM_ECG_803.ts
+19:35:59 Visualization of dataset
+19:36:00 define model Series2Graph
+19:36:00 fit the model
+19:36:00 fit the model Graph Statistics:
+19:36:00 Visualization of the graph:
+19:36:00 Anomalies detection
+19:36:00 Visualization of the full time series:
+19:36:01 Visualization of a snippet
+19:36:01 Visualization of a snippet
+19:36:28 read_csv file /DATA/ATM_ECG_803.ts
+19:36:29 Visualization of dataset
+19:36:30 define model Series2Graph
+19:36:30 fit the model
+19:36:31 fit the model Graph Statistics:
+19:36:31 Visualization of the graph:
+19:36:31 Anomalies detection
+19:36:31 Visualization of the full time series:
+19:36:32 Visualization of a snippet
+19:36:33 Visualization of a snippet
+19:36:59 read_csv file /DATA/ATM_ECG_803.ts
+19:36:59 Visualization of dataset
+19:37:00 define model Series2Graph
+19:37:00 fit the model
+19:37:00 fit the model Graph Statistics:
+19:37:00 Visualization of the graph:
+19:37:00 Anomalies detection
+19:37:00 Visualization of the full time series:
+19:37:01 Visualization of a snippet
+19:37:01 Visualization of a snippet
+19:37:22 read_csv file /DATA/ATM_ECG_803.ts
+19:37:23 Visualization of dataset
+19:37:23 define model Series2Graph
+19:37:23 fit the model
+19:37:23 fit the model Graph Statistics:
+19:37:23 Visualization of the graph:
+19:37:23 Anomalies detection
+19:37:23 Visualization of the full time series:
+19:37:24 Visualization of a snippet
+19:37:24 Visualization of a snippet
+19:38:10 read_csv file /DATA/ATM_ECG_803.ts
+19:38:10 Visualization of dataset
+19:38:11 define model Series2Graph
+19:38:11 fit the model
+19:38:11 fit the model Graph Statistics:
+19:38:11 Visualization of the graph:
+19:38:11 Anomalies detection
+19:38:11 Visualization of the full time series:
+19:38:12 Visualization of a snippet
+19:38:12 Visualization of a snippet
+19:38:33 read_csv file /DATA/ATM_ECG_803.ts
+19:38:33 Visualization of dataset
+19:38:34 define model Series2Graph
+19:38:34 fit the model
+19:38:35 fit the model Graph Statistics:
+19:38:35 Visualization of the graph:
+19:38:35 Anomalies detection
+19:38:35 Visualization of the full time series:
+19:38:36 Visualization of a snippet
+19:38:37 Visualization of a snippet
+19:38:53 read_csv file /DATA/ATM_ECG_803.ts
+19:38:54 Visualization of dataset
+19:38:54 define model Series2Graph
+19:38:54 fit the model
+19:38:54 fit the model Graph Statistics:
+19:38:54 Visualization of the graph:
+19:38:54 Anomalies detection
+19:38:54 Visualization of the full time series:
+19:38:55 Visualization of a snippet
+19:38:56 Visualization of a snippet
+19:39:06 read_csv file /DATA/ATM_ECG_803.ts
+19:39:07 Visualization of dataset
+19:39:08 define model Series2Graph
+19:39:08 fit the model
+19:39:10 fit the model Graph Statistics:
+19:39:10 Visualization of the graph:
+19:39:10 Anomalies detection
+19:39:13 Visualization of the full time series:
+19:39:19 Visualization of a snippet
+19:53:45 read_csv file /DATA/ATM_ECG_803.ts
+19:53:46 Visualization of dataset
+19:53:46 define model Series2Graph
+19:53:46 fit the model
+19:53:47 fit the model Graph Statistics:
+19:53:47 Visualization of the graph:
+19:53:47 Anomalies detection
+19:53:47 Visualization of the full time series:
+19:53:47 Visualization of a snippet
+19:53:48 Visualization of a snippet
+19:53:54 read_csv file /DATA/ATM_ECG_803.ts
+19:53:55 Visualization of dataset
+19:53:55 define model Series2Graph
+19:53:55 fit the model
+19:53:55 fit the model Graph Statistics:
+19:53:55 Visualization of the graph:
+19:53:55 Anomalies detection
+19:53:55 Visualization of the full time series:
+19:53:56 Visualization of a snippet
+19:53:56 Visualization of a snippet
+19:54:42 read_csv file /DATA/ATM_ECG_803.ts
+19:54:43 Visualization of dataset
+19:54:44 define model Series2Graph
+19:54:44 fit the model
+19:54:47 fit the model Graph Statistics:
+19:54:47 Visualization of the graph:
+19:54:47 Anomalies detection
+19:56:11 read_csv file /DATA/ATM_ECG_803.ts
+19:56:11 Visualization of dataset
+19:56:12 define model Series2Graph
+19:56:12 fit the model
+19:56:12 fit the model Graph Statistics:
+19:56:12 Visualization of the graph:
+19:56:12 Anomalies detection
+19:56:12 Visualization of the full time series:
+19:56:13 Visualization of a snippet
+19:56:14 Visualization of a snippet
+19:56:14 Done!
+19:56:44 read_csv file /DATA/ATM_ECG_803.ts
+19:56:45 Visualization of dataset
+19:56:45 define model Series2Graph
+19:56:45 fit the model
+19:56:45 fit the model Graph Statistics:
+19:56:45 Visualization of the graph:
+19:56:45 Anomalies detection
+19:56:46 Visualization of the full time series:
+19:56:46 Visualization of a snippet
+19:56:46 Visualization of a snippet
+19:56:47 Done!
+19:58:31 read_csv file /DATA/ATM_ECG_803.ts
+19:58:32 Visualization of dataset
+19:58:33 define model Series2Graph
+20:01:23 fit the model
+20:19:46 read_csv file /DATA/ATM_ECG_803.ts
+20:19:47 Visualization of dataset
+20:19:48 define model Series2Graph
+20:19:51 fit the model
+20:20:43 read_csv file /DATA/ATM_ECG_803.ts
+20:20:45 Visualization of dataset
+20:20:48 define model Series2Graph
+20:20:53 fit the model
+20:22:22 read_csv file /DATA/ATM_ECG_803.ts
+20:22:23 Visualization of dataset
+20:22:24 define model Series2Graph
+20:22:46 fit the model
+20:23:03 read_csv file /DATA/ATM_ECG_803.ts
+20:23:04 Visualization of dataset
+20:23:05 define model Series2Graph
+20:23:20 fit the model
+20:25:11 read_csv file /DATA/ATM_ECG_803.ts
+20:25:24 Visualization of dataset
+20:25:25 define model Series2Graph
+20:25:48 read_csv file /DATA/ATM_ECG_803.ts
+20:25:56 Visualization of dataset
+20:28:44 read_csv file /DATA/ATM_ECG_803.ts
+20:28:44 Visualization of dataset
+20:28:44 define model Series2Graph
+20:28:44 fit the model
+20:29:01 read_csv file /DATA/ATM_ECG_803.ts
+20:29:06 Visualization of dataset
+20:29:07 define model Series2Graph
+20:29:12 fit the model
+20:35:06 read_csv file /DATA/ATM_ECG_803.ts
+20:35:09 Visualization of dataset
+20:35:10 define model Series2Graph
+20:35:11 fit the model
+20:43:46 read_csv file /DATA/ATM_ECG_803.ts
+20:43:48 Visualization of dataset
+20:43:49 define model Series2Graph
+20:43:50 fit the model
+20:50:32 read_csv file /DATA/ATM_ECG_803.ts
+20:50:34 Visualization of dataset
+20:50:35 define model Series2Graph
+20:50:36 fit the model
+20:51:50 read_csv file /DATA/ATM_ECG_803.ts
+20:51:53 Visualization of dataset
+20:51:53 define model Series2Graph
+20:51:56 fit the model
+20:52:56 read_csv file /DATA/ATM_ECG_803.ts
+20:52:58 Visualization of dataset
+20:52:59 define model Series2Graph
+20:53:00 fit the model
+21:12:55 read_csv file /DATA/ATM_ECG_803.ts
+21:12:58 Visualization of dataset
+21:12:59 define model Series2Graph
+21:13:00 fit the model
+21:19:59 read_csv file /DATA/ATM_ECG_803.ts
+21:20:03 Visualization of dataset
+21:20:04 define model Series2Graph
+21:20:06 fit the model
+01:39:48 read_csv file /DATA/ATM_ECG_803.ts
+01:39:53 Visualization of dataset
+01:39:54 define model Series2Graph
+01:40:00 fit the model
+01:49:44 read_csv file /DATA/ATM_ECG_803.ts
+01:49:44 Visualization of dataset
+01:49:45 define model Series2Graph
+01:49:45 fit the model
+12:04:48 read_csv file /DATA/ATM_ECG_803.ts
+12:04:49 Visualization of dataset
+12:04:49 define model Series2Graph
+12:04:49 fit the model
+12:05:51 read_csv file /DATA/ATM_ECG_803.ts
+12:05:51 Visualization of dataset
+12:05:51 define model Series2Graph
+12:05:51 fit the model
+12:05:52 fit the model Graph Statistics:
+12:05:52 Visualization of the graph:
+12:05:52 Anomalies detection
+12:06:09 read_csv file /DATA/ATM_ECG_803.ts
+12:06:10 Visualization of dataset
+12:06:10 define model Series2Graph
+12:06:10 fit the model
+12:06:10 fit the model Graph Statistics:
+12:06:10 Visualization of the graph:
+12:06:10 Anomalies detection
+12:06:10 Visualization of the full time series:
+12:06:11 Visualization of a snippet
+12:06:11 Visualization of a snippet
+12:06:11 Done!
+12:07:00 read_csv file /DATA/ATM_ECG_803.ts
+12:07:01 Visualization of dataset
+12:07:01 define model Series2Graph
+12:08:00 fit the model
+12:14:13 read_csv file /DATA/ATM_ECG_803.ts
+12:14:14 Visualization of dataset
+12:14:14 define model Series2Graph
+12:14:17 fit the model
+12:20:36 read_csv file /DATA/ATM_ECG_803.ts
+12:20:37 Visualization of dataset
+12:20:37 define model Series2Graph
+12:20:43 fit the model
+12:35:17 fit the model Graph Statistics:
+12:35:38 Visualization of the graph:
+12:35:40 Anomalies detection
+12:41:04 Visualization of the full time series:
+12:44:53 Visualization of a snippet
+12:49:24 read_csv file /DATA/ATM_ECG_803.ts
+12:49:24 Visualization of dataset
+12:49:25 define model Series2Graph
+12:49:25 fit the model
+12:49:25 fit the model Graph Statistics:
+12:49:25 Visualization of the graph:
+12:49:25 Anomalies detection
+12:49:25 Visualization of the full time series:
+12:49:25 Visualization of a snippet
+12:49:25 Visualization of a snippet
+12:49:25 Done!
+12:54:51 read_csv file /DATA/ATM_ECG_803.ts
+12:54:51 Visualization of dataset
+12:54:51 define model Series2Graph
+12:54:51 fit the model
+12:54:51 fit the model Graph Statistics:
+12:54:51 Visualization of the graph:
+12:54:51 Anomalies detection
+12:54:51 Visualization of the full time series:
+12:54:52 Visualization of a snippet
+12:54:52 Visualization of a snippet
+12:54:52 Done!
+12:55:59 read_csv file /DATA/ATM_ECG_803.ts
+12:55:59 Visualization of dataset
+12:55:59 define model Series2Graph
+12:55:59 fit the model
+12:55:59 fit the model Graph Statistics:
+12:55:59 Visualization of the graph:
+12:55:59 Anomalies detection
+12:55:59 Visualization of the full time series:
+12:55:59 Visualization of a snippet
+12:56:00 Visualization of a snippet
+12:56:00 Done!
+12:56:14 read_csv file /DATA/ATM_ECG_803.ts
+12:56:14 Visualization of dataset
+12:56:14 define model Series2Graph
+12:56:14 fit the model
+12:56:14 fit the model Graph Statistics:
+12:56:14 Visualization of the graph:
+12:56:14 Anomalies detection
+12:56:14 Visualization of the full time series:
+12:56:15 Visualization of a snippet
+12:56:15 Visualization of a snippet
+12:56:15 Done!
+12:56:43 read_csv file /DATA/ATM_ECG_803.ts
+12:56:43 Visualization of dataset
+12:56:43 define model Series2Graph
+12:56:43 fit the model
+12:56:43 fit the model Graph Statistics:
+12:56:43 Visualization of the graph:
+12:56:43 Anomalies detection
+12:56:43 Visualization of the full time series:
+12:57:54 read_csv file /DATA/ATM_ECG_803.ts
+12:57:54 Visualization of dataset
+12:57:54 define model Series2Graph
+12:57:54 fit the model
+12:57:54 fit the model Graph Statistics:
+12:57:54 Visualization of the graph:
+12:57:54 Anomalies detection
+12:57:54 Visualization of the full time series:
+12:57:55 Visualization of a snippet
+12:57:55 Visualization of a snippet
+12:57:55 Done!
+13:00:14 read_csv file /DATA/ATM_ECG_803.ts
+13:00:14 Visualization of dataset
+13:00:15 define model Series2Graph
+13:00:15 fit the model
+13:00:15 fit the model Graph Statistics:
+13:00:15 Visualization of the graph:
+13:00:15 Anomalies detection
+13:00:15 Visualization of the full time series:
+13:00:15 Visualization of a snippet
+13:00:15 Visualization of a snippet
+13:00:16 Done!
